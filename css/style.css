@@ -1,0 +1,31 @@
+
+
+.jumbotron {
+  background-image: url("https://1.bp.blogspot.com/-AJDGYvl-3i0/XvDbwEbhEWI/AAAAAAAAASY/I95GjqWBRVgaAHaJ0rm69yh-7IIvC1DuQCK4BGAsYHg/s5399/photo-of-landfill-2768961.jpg");
+  background-repeat: no-repeat;
+  background-position:top;
+  background-size: cover;
+  font-color: white;
+  text-align: center;
+
+}
+
+h1, h3 {
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #444444;
+}
+
+h2 {
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: #444444;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #444444;
+}
